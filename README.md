@@ -2,7 +2,7 @@
 ### Omar Jiménez, Avi Arora, Sasan Zohreh
 ##### CSE8803 – Machine Learning for Chemistry
 #
-
+Note: Original commits are lost here. 
 
 **Hypothesis**: Performance of Graph Neural Networks in chemistry could potentially be improved by using NAS-based techniques
 
